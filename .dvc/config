@@ -1,0 +1,5 @@
+[core]
+    remote = minio
+['remote "minio"']
+    url = s3://mybucket
+    endpointurl = https://minio.tempura.duckdns.org

@@ -1,0 +1,59 @@
+{
+  "Overview": {
+    "Overview": "/"
+  },
+  "Linux, Servers, Networking": {
+    "Linux Servers": "/linux_servers",
+    "Proxmox (QEMU/KVM)": "/proxmox",
+    "Cloud Platforms": "/cloud_platforms",
+    "Docker": "/docker",
+    "Linux Misc": "/linux_misc"
+  },
+  "Data Prep": {
+    "Pandas": "/pandas",
+    "SQL": "/sql",
+    "Webscraping": "/webscraping",
+    "Data Augmentation": "/data_augmentation",
+    "Data Pipelines": "/data_pipelines",
+    "Data Validation": "/data_validation",
+    "Data Visualization": "/data_visualization"
+  },
+  "Modeling": {
+    "A/B Testing": "/ab_testing",
+    "Bayesian Optimization": "/bayesian_optimization",
+    "Experiment Tracking and Hyperparameter Optimization": "/experiment_tracking_and_hyperparameter_optimization",
+    "Multi-Objective Optimization": "/multi-objective_optimization",
+    "Constraint Programming": "/constraint_programming",
+    "Causal Inference": "/causal_inference",
+    "Multi-Armed Bandits": "/multi-armed_bandits"
+  },
+  "Model Validation": {
+    "Model Interpretability": "/model_interpretability"
+  },
+  "Build and Deploy Data Apps": {
+    "Plotly Dash": "/plotly_dash",
+    "FastAPI": "/fastapi",
+    "Streamlit": "/streamlit"
+  },
+  "Other": {
+    "Misc": "/misc",
+    "Manim": "/manim",
+    "Asyncio": "/asyncio",
+    "Bots": "/bots",
+    "Data Science Benchmarks": "/benchmarks",
+    "Utils": "/utils",
+    "RSS Feeds": "/rss_feeds",
+    "Pokemon Image Classification": "/pokemon_image_classification"
+  },
+  "Concepts Explained": {
+    "Curse of Dimensionality": "/curse_of_dimensionality",
+    "Bias-Variance Tradeoff": "/bias-variance_tradeoff",
+    "Markov Chain Monte Carlo (MCMC)": "/markov_chain_monte_carlo",
+    "Bayesian Linear Regression": "/bayesian_linear_regression",
+    "Probability": "/probability",
+    "Bias": "/bias"
+  },
+  "Papers": {
+    "DETR": "/detr"
+  }
+}

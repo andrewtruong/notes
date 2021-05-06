@@ -1,0 +1,15 @@
+artifact_uri: file:///home/andrew/notes/artifacts/mlruns/0/8dab788bc0af49d4ab91e31e2c5b7389/artifacts
+end_time: 1619911029188
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 8dab788bc0af49d4ab91e31e2c5b7389
+run_uuid: 8dab788bc0af49d4ab91e31e2c5b7389
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1619911028630
+status: 3
+tags: []
+user_id: andrew
