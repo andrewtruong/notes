@@ -2,7 +2,7 @@ repository: andrewtruong/notes
 output: web
 topnav_title: notes
 site_title: notes
-company_name: me
+company_name: andrewtruong
 description: Notes and code
 # Set to false to disable KaTeX math
 use_math: true
@@ -63,5 +63,6 @@ plugins:
     - jekyll-remote-theme
     
 remote_theme: fastai/nbdev-jekyll-theme
-baseurl: /notes/
+baseurl: /
+url: https://andrewtruong.com
 theme: jekyll-theme-cayman
