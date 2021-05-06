@@ -41,7 +41,7 @@ modules = ["pandas.py",
            "asyncio.py",
            "utils.py"]
 
-doc_url = "https://andrewtruong.github.io/notes/"
+doc_url = "https://andrewtruong.com/"
 
 git_url = "https://github.com/andrewtruong/notes/tree/master/"
 
