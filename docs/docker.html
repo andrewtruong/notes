@@ -53,14 +53,14 @@ nb_path: "nbs/01_linux_servers_networking/docker.ipynb"
 <div class="cell border-box-sizing text_cell rendered"><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <h3 id="DRY-/-Flavours">DRY / Flavours<a class="anchor-link" href="#DRY-/-Flavours"> </a></h3><ul>
-<li>Parameterize with <code>ARG</code> to make slightly different envs
-```Dockerfile
-# or slim, buster, etc.
-ARG flavour=alpine</li>
+<li>Parameterize with <code>ARG</code> to make slightly different envs</li>
 </ul>
-<p>FROM python:3.8-$flavour
+<div class="highlight"><pre><span></span><span class="c"># or slim, buster, etc.</span>
+<span class="k">ARG</span> <span class="nv">flavour</span><span class="o">=</span>alpine
+
+<span class="k">FROM</span> <span class="s">python:3.8-$flavour</span>
 ...
-```</p>
+</pre></div>
 
 </div>
 </div>
